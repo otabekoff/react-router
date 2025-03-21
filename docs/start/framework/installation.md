@@ -3,7 +3,7 @@ title: Installation
 order: 1
 ---
 
-# Installation
+# Installation documentation
 
 <docs-info>
 
